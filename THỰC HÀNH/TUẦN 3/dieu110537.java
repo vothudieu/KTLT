@@ -17,9 +17,9 @@ public class dieu110537 {
         System.out.println("Họ và Tên :" + hoVaTen);
         System.out.println("tuổi : " + tuoi);
         System.out.println("Giới tính : " + gioiTinh(gt));
-        System.out.println("Lớp " + lop);
+        System.out.println("Lớp : " + lop);
         System.out.println("Khoa " + Khoa);
-        System.out.println("Địa chỉ: " + diaChi);
+        System.out.println("Địa chỉ : " + diaChi);
         System.out.println("-----HẾT-----");
     }   
 }
