@@ -14,7 +14,7 @@ public class dieu110537 {
         boolean gt = false;
         System.out.println("-----THÔNG TIN SINH VIÊN-----");
         System.out.println("Mã sinh viên : " + maSinhVien);
-        System.out.println("Họ và Tên :" + hoVaTen);
+        System.out.println("Họ và Tên : " + hoVaTen);
         System.out.println("tuổi : " + tuoi);
         System.out.println("Giới tính : " + gioiTinh(gt));
         System.out.println("Lớp : " + lop);
